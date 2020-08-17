@@ -52,3 +52,7 @@ Está é uma das primeiras atividades que teremos aqui. Cada um de vocês deve a
 | Foto                                   | Nome   | Descrição     |
 | -------------------------------------- | ------ | ------------- |
 | <img src="equipe/moroni.png" width=80> | Moroni | Eu sou lindão |
+
+## Mensagem Motivacional:
+
+O sol nasceu na África.
