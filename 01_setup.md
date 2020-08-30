@@ -99,3 +99,9 @@ Nesta pasta qualquer arquivo terminado com .py será um módulo python e podemos
 - [pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
 - [python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+
+## Veja o resultado
+
+```bash
+git checkout task1/setup
+```
