@@ -8,6 +8,11 @@ Por exemplo, alguem pode querer aprender a fazer autenticação. Em um caso dess
 
 Preparar as ferramentas básicas. Não quer dizer que vamos instalar várias bibliotecas, mas sim deixar tudo pronto para quando precisar-mos faze-lo.
 
+## Introdução aos tipos de dados
+
+Que tipo de dado pode ser manipulado pelo python?
+Que operações são possíveis com estes dados?
+
 ## Módulo para controle de acesso de usuários
 
 A ideia é armazenar usuários(alunos e professores), identifica-los e liberar o acesso ao sistema. Inicialmente vamos fazer todo o armazenamento em arquivos locais e no futuro vamos usar algum banco de dados.
