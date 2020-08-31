@@ -13,6 +13,9 @@ Preparar as ferramentas básicas. Não quer dizer que vamos instalar várias bib
 Que tipo de dado pode ser manipulado pelo python?
 Que operações são possíveis com estes dados?
 
+Recomendo dar uma olhada nesse [link aqui](https://www.w3schools.com/python/)
+Focar nas Strings, numbers e listas.
+
 ## Módulo para controle de acesso de usuários
 
 A ideia é armazenar usuários(alunos e professores), identifica-los e liberar o acesso ao sistema. Inicialmente vamos fazer todo o armazenamento em arquivos locais e no futuro vamos usar algum banco de dados.
