@@ -49,9 +49,11 @@ Estudem:
 
 Está é uma das primeiras atividades que teremos aqui. Cada um de vocês deve acrescar uma foto(Não precisa ser seu rosto), seu nome e uma descrição rápida.
 
-| Foto                                   | Nome   | Descrição     |
-| -------------------------------------- | ------ | ------------- |
-| <img src="equipe/moroni.png" width=80> | Moroni | Eu sou lindão |
+| Foto                                   |  Nome    |      Descrição       |
+| -------------------------------------- | -------- | -------------------- |
+| <img src="equipe/moroni.png" width=80> |  Moroni  |     Eu sou lindão    |
+| -------------------------------------- | -------- | -------------------- |
+|                                        | Emerson  | Não sou rico (Ainda) |
 
 ## Mensagem Motivacional:
 
