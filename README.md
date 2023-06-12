@@ -61,3 +61,23 @@ O sol nasceu na África.
 > :warning: Toma cuidado capoeira
 
 > :info: xablau
+
+> **Note**
+> Presta atenção na parada
+
+> **Warning**
+> Isso aqui eh sinistro
+
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/warning.svg">
+>   <img alt="Warning" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/warning.svg">
+> </picture><br>
+>
+> Warning
+
+
+> **Warning**
+> xablau
+
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
