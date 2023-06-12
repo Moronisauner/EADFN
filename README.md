@@ -56,3 +56,8 @@ Está é uma das primeiras atividades que teremos aqui. Cada um de vocês deve a
 ## Mensagem Motivacional:
 
 O sol nasceu na África.
+
+
+> :warning: Toma cuidado capoeira
+
+> :info: xablau
